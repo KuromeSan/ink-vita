@@ -1,4 +1,4 @@
-#How to play:
+# How to play:
 Download VPK, Install VPK.
 
 
@@ -23,11 +23,11 @@ It **WILL NOT WORK* with a pirated copy of the game due to hash check.~~
 
 ~~**IMPORTANT:** This patch is not confirmed to work with any other version that it's not the current latest build of Steam. 
 
-~~## Credits
-Credits for the original game go to ZackBellGames
-Additional credit for the port goes to @Grossleymoo for UTMT and helping/teaching me to port Vita games.
+~~## Credits~~
+~~Credits for the original game go to ZackBellGames~~
+~~Additional credit for the port goes to @Grossleymoo for UTMT and helping/teaching me to port Vita games.~~
 
-~~## Donations
-If you want to support my work, you can [buy me a coffee here!](https://www.buymeacoffee.com/m1s3ry)
+~~## Donations~~
+~~If you want to support my work, you can [buy me a coffee here!](https://www.buymeacoffee.com/m1s3ry)~~
 
-~~Also you can [follow me on twitter](https://www.twitter.com/m1s3ry_)
+~~Also you can [follow me on twitter](https://www.twitter.com/m1s3ry_)~~

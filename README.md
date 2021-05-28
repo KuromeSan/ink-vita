@@ -21,7 +21,7 @@ It **WILL NOT WORK* with a pirated copy of the game due to hash check.~~
 ~5. Copy `eboot.bin` and the `games` folder and move them to the vita, `ux0:app/INKV00000`. Overwrite when prompted. ~
 ~6. Copy every `.ogg` file from your PC's INK folder to `ux0:app/INKV00000/games`~
 
-~~**IMPORTANT:** This patch is not confirmed to work with any other version that it's not the current latest build of Steam. 
+~~**IMPORTANT:** This patch is not confirmed to work with any other version that it's not the current latest build of Steam~~
 
 ~~## Credits~~
 ~~Credits for the original game go to ZackBellGames~~
